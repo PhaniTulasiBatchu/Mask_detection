@@ -7,4 +7,4 @@ If that person is not wearing a mask then a warning comes saying ‘PLEASE WEAR 
 Social-distancing is one of the important thing that needs to be focused to prevent the spread.
 
 # Refer the documentation :
-# https://docs.google.com/presentation/d/1nn6s9OLIBeL5KUWb5q9jd63EDH4PWqDVEbLHDa_xbH0/edit?usp=sharing
+ https://docs.google.com/presentation/d/1nn6s9OLIBeL5KUWb5q9jd63EDH4PWqDVEbLHDa_xbH0/edit?usp=sharing
